@@ -1,2 +1,2 @@
 # owdc-demo
-Open-source Wifi-based Drone Carrier
+LHP's Open-source Wifi-based Drone Carrier
